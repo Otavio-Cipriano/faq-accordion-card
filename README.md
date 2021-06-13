@@ -42,5 +42,5 @@ I still need improve my html architecture and accessibility
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Otavio-Cipriano](https://www.frontendmentor.io/profile/Otavio-Cipriano)
 
