@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/faq-accordion-card-wZNb4w0r1)
+- Live Site URL: (https://otavio-cipriano.github.io/frontend-mentor-faq-accordion-card/)
 
 ## My process
 
