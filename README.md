@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://www.frontendmentor.io/solutions/faq-accordion-card-wZNb4w0r1)
-- Live Site URL: (https://otavio-cipriano.github.io/frontend-mentor-faq-accordion-card/)
+- Live Site URL: (https://otavio-cipriano.github.io/faq-accordion-card/)
 
 ## My process
 
